@@ -7,7 +7,7 @@ public class Pudge {
 		
 	  System.out.println("Hello");
 	  
-	  int a =10;
+	  int a =1;
 	  double c=6;
 	  a=(int)c;
 	  
